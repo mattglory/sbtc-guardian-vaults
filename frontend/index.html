@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>sBTC Guardian Vaults</title>
+    <script>
+      // Set up globals BEFORE any modules load
+      window.global = window;
+      window.process = window.process || { env: {} };
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <!-- Load polyfills FIRST, then the app -->
+    <script type="module" src="/src/polyfills.js"></script>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
