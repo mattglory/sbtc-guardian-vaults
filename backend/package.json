@@ -16,7 +16,9 @@
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "node-cache": "^5.1.2",
-    "openai": "^4.77.3"
+    "openai": "^4.77.3",
+    "@stacks/network": "^7.2.0",
+    "@stacks/transactions": "^7.2.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
