@@ -1,8 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const { StacksTestnet } = require('@stacks/network');
 
-const network = new StacksTestnet();
 const CONTRACT_ADDRESS = 'ST2X1GBHA2WJXREWP231EEQXZ1GDYZEEXYRAD1PA8';
 const CONTRACT_NAME = 'sbtc-vault-guardian';
 
