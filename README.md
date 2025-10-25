@@ -7,6 +7,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Stacks](https://img.shields.io/badge/Built%20on-Stacks-purple.svg)
 ![AI](https://img.shields.io/badge/Powered%20by-GPT--4-green.svg)
+![Code4Stackers](https://img.shields.io/badge/Code4Stackers-October%202025-orange.svg)
 
 ---
 
