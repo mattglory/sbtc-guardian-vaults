@@ -26,6 +26,16 @@ sBTC Guardian Vaults is the first AI-powered vault system for Bitcoin on Stacks,
 
 ---
 
+## 🎥 Demo Video
+
+Watch the full demo showcasing AI-powered portfolio management:
+
+[![sBTC Guardian Vaults Demo](https://img.youtube.com/vi/Eko0Mlq4dbU/maxresdefault.jpg)](https://youtu.be/Eko0Mlq4dbU)
+
+**[▶️ Watch on YouTube](https://youtu.be/Eko0Mlq4dbU)**
+
+---
+
 ## ✨ Features
 
 ### 🤖 AI-Powered Intelligence

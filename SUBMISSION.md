@@ -1,10 +1,10 @@
 # Code4Stackers Submission - October 2025
 ## sBTC Guardian Vaults - AI-Powered Bitcoin DeFi Protection
 
-### í¾¯ One-Line Pitch
+### ï¿½ï¿½ï¿½ One-Line Pitch
 The first GPT-4 powered portfolio management system for sBTC, making Bitcoin DeFi accessible through natural language AI guidance and automated risk protection.
 
-### í²¡ The Problem
+### ï¿½ï¿½ï¿½ The Problem
 Bitcoin holders want DeFi yields but face:
 - Complex choices across multiple protocols
 - High risk without clear guidance  
@@ -18,7 +18,7 @@ sBTC Guardian Vaults = Your AI financial advisor for Bitcoin DeFi
 - Automated risk management across protocols
 - One-click access to safe Bitcoin yields
 
-### íº€ Key Innovations
+### ï¿½ï¿½ï¿½ Key Innovations
 
 **1. Industry-First GPT-4 Integration**
 - Natural language DeFi advisor
@@ -48,19 +48,23 @@ sBTC Guardian Vaults = Your AI financial advisor for Bitcoin DeFi
 âœ… Transaction history
 âœ… Production deployment (Vercel + Railway)
 
-### í¾¯ Live Demo
+### ï¿½ï¿½ï¿½ Live Demo
 
 **Try It Now:**
 - **App**: https://sbtc-guardian-vaults.vercel.app
 - **GitHub**: https://github.com/mattglory/sbtc-guardian-vaults  
 - **API**: https://sbtc-guardian-vaults-production-e560.up.railway.app
+- **Demo Video**: https://youtu.be/Eko0Mlq4dbU
 
 **Test the AI:**
 1. Visit app and click purple AI button (bottom right)
 2. Ask: "Should I invest in sBTC?" 
 3. Watch GPT-4 analyze and respond with personalized advice
 
-### í²ª Technical Achievements
+**Watch the Demo:**
+See the AI in action: https://youtu.be/Eko0Mlq4dbU
+
+### ï¿½ï¿½ï¿½ Technical Achievements
 
 **Built in 48 Hours:**
 - 10,000+ lines of code
@@ -76,7 +80,7 @@ sBTC Guardian Vaults = Your AI financial advisor for Bitcoin DeFi
 - Deployment: Vercel + Railway
 - Data: CoinGecko API, real-time DeFi protocols
 
-### í¼Ÿ Impact on Stacks Ecosystem
+### ï¿½ï¿½ï¿½ Impact on Stacks Ecosystem
 
 **Immediate Benefits:**
 - Makes sBTC accessible to non-technical users
@@ -91,7 +95,7 @@ AI: "Based on current BTC price of $111K and low volatility (0.87% 24h change), 
 User: "Should I switch to aggressive mode?"  
 AI: "Your conservative profile offers 8% APY with minimal risk. Aggressive increases to 12% APY but risk jumps to 85/100. Given today's bearish BTC trend, I recommend waiting..."
 
-### í¿† Why This Should Win
+### ï¿½ï¿½ï¿½ Why This Should Win
 
 **Innovation:**
 âœ… First-ever GPT-4 + sBTC integration
@@ -108,7 +112,7 @@ AI: "Your conservative profile offers 8% APY with minimal risk. Aggressive incre
 âœ… Grows Stacks ecosystem
 âœ… Demonstrates technical excellence
 
-### í³ˆ Roadmap
+### ï¿½ï¿½ï¿½ Roadmap
 
 **Phase 1 - MVP** âœ… Completed
 - Smart contracts, AI integration, production deploy
@@ -119,14 +123,14 @@ AI: "Your conservative profile offers 8% APY with minimal risk. Aggressive incre
 **Phase 3 - Scale** (Q2 2026)
 - Mobile apps, advanced AI, institutional features
 
-### í±¨â€í²» Developer
+### ï¿½ï¿½ï¿½â€ï¿½ï¿½ï¿½ Developer
 
 **Matt Glory**
 - Email: mattglory14@gmail.com
 - GitHub: @mattglory
 - Project: Built in 48 hours, ready to scale
 
-### í´— Links
+### ï¿½ï¿½ï¿½ Links
 
 - Live App: https://sbtc-guardian-vaults.vercel.app
 - GitHub: https://github.com/mattglory/sbtc-guardian-vaults
@@ -141,10 +145,10 @@ EOFcat > SUBMISSION.md << 'EOF'
 # Code4Stackers Submission - October 2025
 ## sBTC Guardian Vaults - AI-Powered Bitcoin DeFi Protection
 
-### í¾¯ One-Line Pitch
+### ï¿½ï¿½ï¿½ One-Line Pitch
 The first GPT-4 powered portfolio management system for sBTC, making Bitcoin DeFi accessible through natural language AI guidance and automated risk protection.
 
-### í²¡ The Problem
+### ï¿½ï¿½ï¿½ The Problem
 Bitcoin holders want DeFi yields but face:
 - Complex choices across multiple protocols
 - High risk without clear guidance  
@@ -158,7 +162,7 @@ sBTC Guardian Vaults = Your AI financial advisor for Bitcoin DeFi
 - Automated risk management across protocols
 - One-click access to safe Bitcoin yields
 
-### íº€ Key Innovations
+### ï¿½ï¿½ï¿½ Key Innovations
 
 **1. Industry-First GPT-4 Integration**
 - Natural language DeFi advisor
@@ -188,19 +192,23 @@ sBTC Guardian Vaults = Your AI financial advisor for Bitcoin DeFi
 âœ… Transaction history
 âœ… Production deployment (Vercel + Railway)
 
-### í¾¯ Live Demo
+### ï¿½ï¿½ï¿½ Live Demo
 
 **Try It Now:**
 - **App**: https://sbtc-guardian-vaults.vercel.app
 - **GitHub**: https://github.com/mattglory/sbtc-guardian-vaults  
 - **API**: https://sbtc-guardian-vaults-production-e560.up.railway.app
+- **Demo Video**: https://youtu.be/Eko0Mlq4dbU
 
 **Test the AI:**
 1. Visit app and click purple AI button (bottom right)
 2. Ask: "Should I invest in sBTC?" 
 3. Watch GPT-4 analyze and respond with personalized advice
 
-### í²ª Technical Achievements
+**Watch the Demo:**
+See the AI in action: https://youtu.be/Eko0Mlq4dbU
+
+### ï¿½ï¿½ï¿½ Technical Achievements
 
 **Built in 48 Hours:**
 - 10,000+ lines of code
@@ -216,7 +224,7 @@ sBTC Guardian Vaults = Your AI financial advisor for Bitcoin DeFi
 - Deployment: Vercel + Railway
 - Data: CoinGecko API, real-time DeFi protocols
 
-### í¼Ÿ Impact on Stacks Ecosystem
+### ï¿½ï¿½ï¿½ Impact on Stacks Ecosystem
 
 **Immediate Benefits:**
 - Makes sBTC accessible to non-technical users
@@ -231,7 +239,7 @@ AI: "Based on current BTC price of $111K and low volatility (0.87% 24h change), 
 User: "Should I switch to aggressive mode?"  
 AI: "Your conservative profile offers 8% APY with minimal risk. Aggressive increases to 12% APY but risk jumps to 85/100. Given today's bearish BTC trend, I recommend waiting..."
 
-### í¿† Why This Should Win
+### ï¿½ï¿½ï¿½ Why This Should Win
 
 **Innovation:**
 âœ… First-ever GPT-4 + sBTC integration
@@ -248,7 +256,7 @@ AI: "Your conservative profile offers 8% APY with minimal risk. Aggressive incre
 âœ… Grows Stacks ecosystem
 âœ… Demonstrates technical excellence
 
-### í³ˆ Roadmap
+### ï¿½ï¿½ï¿½ Roadmap
 
 **Phase 1 - MVP** âœ… Completed
 - Smart contracts, AI integration, production deploy
@@ -259,14 +267,14 @@ AI: "Your conservative profile offers 8% APY with minimal risk. Aggressive incre
 **Phase 3 - Scale** (Q2 2026)
 - Mobile apps, advanced AI, institutional features
 
-### í±¨â€í²» Developer
+### ï¿½ï¿½ï¿½â€ï¿½ï¿½ï¿½ Developer
 
 **Matt Glory**
 - Email: mattglory14@gmail.com
 - GitHub: @mattglory
 - Project: Built in 48 hours, ready to scale
 
-### í´— Links
+### ï¿½ï¿½ï¿½ Links
 
 - Live App: https://sbtc-guardian-vaults.vercel.app
 - GitHub: https://github.com/mattglory/sbtc-guardian-vaults
@@ -281,10 +289,10 @@ EOFcat > SUBMISSION.md << 'EOF'
 # Code4Stackers Submission - October 2025
 ## sBTC Guardian Vaults - AI-Powered Bitcoin DeFi Protection
 
-### í¾¯ One-Line Pitch
+### ï¿½ï¿½ï¿½ One-Line Pitch
 The first GPT-4 powered portfolio management system for sBTC, making Bitcoin DeFi accessible through natural language AI guidance and automated risk protection.
 
-### í²¡ The Problem
+### ï¿½ï¿½ï¿½ The Problem
 Bitcoin holders want DeFi yields but face:
 - Complex choices across multiple protocols
 - High risk without clear guidance  
@@ -298,7 +306,7 @@ sBTC Guardian Vaults = Your AI financial advisor for Bitcoin DeFi
 - Automated risk management across protocols
 - One-click access to safe Bitcoin yields
 
-### íº€ Key Innovations
+### ï¿½ï¿½ï¿½ Key Innovations
 
 **1. Industry-First GPT-4 Integration**
 - Natural language DeFi advisor
@@ -328,19 +336,23 @@ sBTC Guardian Vaults = Your AI financial advisor for Bitcoin DeFi
 âœ… Transaction history
 âœ… Production deployment (Vercel + Railway)
 
-### í¾¯ Live Demo
+### ï¿½ï¿½ï¿½ Live Demo
 
 **Try It Now:**
 - **App**: https://sbtc-guardian-vaults.vercel.app
 - **GitHub**: https://github.com/mattglory/sbtc-guardian-vaults  
 - **API**: https://sbtc-guardian-vaults-production-e560.up.railway.app
+- **Demo Video**: https://youtu.be/Eko0Mlq4dbU
 
 **Test the AI:**
 1. Visit app and click purple AI button (bottom right)
 2. Ask: "Should I invest in sBTC?" 
 3. Watch GPT-4 analyze and respond with personalized advice
 
-### í²ª Technical Achievements
+**Watch the Demo:**
+See the AI in action: https://youtu.be/Eko0Mlq4dbU
+
+### ï¿½ï¿½ï¿½ Technical Achievements
 
 **Built in 48 Hours:**
 - 10,000+ lines of code
@@ -356,7 +368,7 @@ sBTC Guardian Vaults = Your AI financial advisor for Bitcoin DeFi
 - Deployment: Vercel + Railway
 - Data: CoinGecko API, real-time DeFi protocols
 
-### í¼Ÿ Impact on Stacks Ecosystem
+### ï¿½ï¿½ï¿½ Impact on Stacks Ecosystem
 
 **Immediate Benefits:**
 - Makes sBTC accessible to non-technical users
@@ -371,7 +383,7 @@ AI: "Based on current BTC price of $111K and low volatility (0.87% 24h change), 
 User: "Should I switch to aggressive mode?"  
 AI: "Your conservative profile offers 8% APY with minimal risk. Aggressive increases to 12% APY but risk jumps to 85/100. Given today's bearish BTC trend, I recommend waiting..."
 
-### í¿† Why This Should Win
+### ï¿½ï¿½ï¿½ Why This Should Win
 
 **Innovation:**
 âœ… First-ever GPT-4 + sBTC integration
@@ -388,7 +400,7 @@ AI: "Your conservative profile offers 8% APY with minimal risk. Aggressive incre
 âœ… Grows Stacks ecosystem
 âœ… Demonstrates technical excellence
 
-### í³ˆ Roadmap
+### ï¿½ï¿½ï¿½ Roadmap
 
 **Phase 1 - MVP** âœ… Completed
 - Smart contracts, AI integration, production deploy
@@ -399,14 +411,14 @@ AI: "Your conservative profile offers 8% APY with minimal risk. Aggressive incre
 **Phase 3 - Scale** (Q2 2026)
 - Mobile apps, advanced AI, institutional features
 
-### í±¨â€í²» Developer
+### ï¿½ï¿½ï¿½â€ï¿½ï¿½ï¿½ Developer
 
 **Matt Glory**
 - Email: mattglory14@gmail.com
 - GitHub: @mattglory
 - Project: Built in 48 hours, ready to scale
 
-### í´— Links
+### ï¿½ï¿½ï¿½ Links
 
 - Live App: https://sbtc-guardian-vaults.vercel.app
 - GitHub: https://github.com/mattglory/sbtc-guardian-vaults
