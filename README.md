@@ -244,19 +244,16 @@ clarinet deploy --testnet
 
 ---
 
-## 💰 Seeking Funding
+## 🚀 What's Next
 
-We're actively seeking grants and investments to bring sBTC Guardian Vaults to mainnet.
+Interested in the future of sBTC Guardian Vaults? We're planning exciting developments:
 
-**Target:** $50,000 for:
+**Mainnet Launch** - Professional security audit and production deployment
+**Advanced Features** - Auto-rebalancing and enhanced AI capabilities  
+**Mobile Apps** - Native iOS and Android applications
+**Community Growth** - Building the Bitcoin DeFi ecosystem
 
-- Smart contract security audit ($15K)
-- Full-time development (3 months) ($20K)
-- AI infrastructure & API costs ($5K)
-- Marketing & user acquisition ($7K)
-- Legal & incorporation ($3K)
-
-**Contact:** mattglory14@gmail.com
+**Want to contribute or collaborate?** Contact: mattglory14@gmail.com
 
 ---
 
